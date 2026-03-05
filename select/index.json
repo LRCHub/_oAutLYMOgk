@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "The Pretender",
+  "base_artist": "Infected Mushroom",
+  "createdAt": "2026-03-05T11:24:53.628399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/01_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/02_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Infected Mushroom",
+      "has_synced": true,
+      "path": "select/03_The_Pretender_Infected_Mushroom.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/04_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/05_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/06_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Jackson Browne",
+      "has_synced": false,
+      "path": "select/07_The_Pretender_Jackson_Browne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Jackson Browne",
+      "has_synced": true,
+      "path": "select/08_The_Pretender_Jackson_Browne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Datarock",
+      "has_synced": true,
+      "path": "select/09_The_Pretender_Datarock.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/10_The_Pretender_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Pretender (Live at the Roundhouse, London, UK, July 2011)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/11_The_Pretender_(Live_at_the_Roundhouse,_London,_UK,_July_2011)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Pretender",
+      "artist": "Infected Mushroom",
+      "has_synced": false,
+      "path": "select/pl_01_The_Pretender_Infected_Mushroom.txt"
+    }
+  ]
+}
